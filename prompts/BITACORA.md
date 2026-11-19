@@ -1,7 +1,7 @@
 # Bitacora de tecnicas avanzadas 
  
 Laboratorio 07: Tecnicas Avanzadas de Prompting. 
-Herramienta de IA usada: (escribe aqui cual usaste) 
+Herramienta de IA usada: Gemini
  
 ## Ejercicio 2: Zero-shot, one-shot y few-shot 
  | Tipo | Aciertos (de 5) | Formato de la respuesta | Todas con el mismo formato (Si/No) |
